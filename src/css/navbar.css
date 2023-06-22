@@ -1,0 +1,21 @@
+.barra_navegacao{
+    background-color: #222;
+    
+}
+
+.barra_navegacao .spanNav{
+    color: #ffbb33;
+    font-weight: bold;
+}
+
+.barra_navegacao a{
+    color: #f0eef0;
+    font-size: 20px;
+}
+
+.btn-outline-success{
+    background-color: #ffbb33 !important; 
+    color: #222 !important;
+    border: none !important;
+}
+
